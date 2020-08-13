@@ -1,0 +1,42 @@
+h1{
+	color: #FFFFFF;
+	text-transform: uppercase;
+     text-align: center;
+     background-color:#696969;
+     } 
+    
+    header, nav{ 	background-color: #696969;
+	color: #FFFFFF;
+	top: 0px;
+	
+}
+
+
+h2{
+	color:#00008B;
+	text-transform: uppercase;
+}
+section{
+	background-color: #696969;
+	top: 100px;
+}
+link{
+	background-color: #2E8B57;
+	text-align: center;
+}
+image{
+
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5d/Ultimate_Frisbee%2C_Jul_2009_-_19.jpg",alt="Creative Common Ultimate Photo" );
+	display: none;
+}
+	image{
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ultimate_Frisbee_Colorado_Cup_2005.jpg/512px-Ultimate_Frisbee_Colorado_Cup_2005.jpg",alt="Ultimate Frisbee Colorado Cup 2005" );
+		display:none;
+	}
+		image{
+			background-image:url("https://farm4.staticflickr.com/3948/15409853738_7dbfbfbac7_k.jpg", alt="Ultimate Frisbee");
+	display:none;
+
+}
+
+
